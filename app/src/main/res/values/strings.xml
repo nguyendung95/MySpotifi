@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Spotifi</string>
+    <string name="title_activity_login">My Spotifi</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Email khoong hợp lệ</string>
+    <string name="error_invalid_password">Pass quá ngắn</string>
+    <string name="error_incorrect_password">Pass không đúng</string>
+    <string name="error_field_required">Không để trống các trường</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Hiện pass</string>
+    <string name="hide_pwd">Ẩn pass</string>
+    <string name="forgot">Quên password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Bạn chưa có tk? Đăng ký ngay!</string>
+    <string name="fullName">Tên đăng nhập</string>
+    <string name="confirmPassword">Xác nhận mật khẩu</string>
+    <string name="terms_conditions">Bằng việc đánh vào checkbox, bạn đồng ý với các điều khoản.</string>
+    <string name="signUp">ĐĂNG KÝ</string>
+    <string name="already_user">Bạn đã có tài khoản? Đăng nhập.</string>
+    <string name="registered_emailid">Điền Email Id đã đăng ký vào phía dưới:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
